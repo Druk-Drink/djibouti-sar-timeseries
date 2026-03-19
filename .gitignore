@@ -1,0 +1,24 @@
+# Credentials - NEVER commit
+.env
+
+# Downloaded SAR data (large files)
+djibouti_sar_data/
+*.zip
+
+# Generated GIFs
+gifs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
