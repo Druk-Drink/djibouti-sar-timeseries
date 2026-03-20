@@ -3,7 +3,9 @@
 
 # Downloaded SAR data (large files)
 djibouti_sar_data/
+djibouti_sar_processed/
 *.zip
+*.tif
 
 # Generated GIFs
 gifs/
@@ -22,3 +24,4 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+.claude/

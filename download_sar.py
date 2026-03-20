@@ -27,7 +27,7 @@ load_dotenv()
 
 # Target month for analysis (1=January, 2=February, ..., 12=December)
 # Start with one month, later expand to others
-TARGET_MONTH = 1  # January
+TARGET_MONTH = 2  # February
 
 # NASA Earthdata credentials (from environment variables)
 EARTHDATA_USERNAME = os.getenv('EARTHDATA_USERNAME')
